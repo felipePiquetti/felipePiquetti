@@ -16,10 +16,10 @@ Graduating in **Software Engineering (2/8)** — passionate about **Robotics** a
   <a href="mailto:piquetti6@gmail.com" title="Gmail">
     <img src="https://img.shields.io/badge/Gmail-30363d?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="www.linkedin.com/in/felipe-piquetti" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    
-  </a>
+<a href="https://www.linkedin.com/in/felipe-piquetti/" title="LinkedIn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
 </p>
 
 ---
